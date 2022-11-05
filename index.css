@@ -43,9 +43,6 @@ section h1 {
 section p {
   padding: 20px;
 }
-section p i {
-  color: #d9ff00;
-}
 section button {
   width: 200px;
   height: 50px;
@@ -54,11 +51,6 @@ section button {
   margin-left: 800px;
   flex-wrap: wrap;
   align-items: center;
-}
-
-.title {
-  padding: 50px;
-  background-color: #f1f1f1;
 }
 
 .fotto {
@@ -89,7 +81,7 @@ section button {
 .button button {
   width: 200px;
   height: 50px;
-  background-color: red;
+  background-color: rgb(255, 1, 1);
   color: white;
   margin-left: 800px;
   flex-wrap: wrap;
@@ -132,7 +124,4 @@ footer .bloks {
   gap: 40px;
   flex-wrap: wrap;
   align-items: center;
-}
-.bot .ul a {
-  color: white;
 }/*# sourceMappingURL=index.css.map */
